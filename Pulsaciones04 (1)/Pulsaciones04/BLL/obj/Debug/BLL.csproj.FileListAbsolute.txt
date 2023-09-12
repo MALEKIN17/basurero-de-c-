@@ -1,0 +1,11 @@
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\bin\Debug\BLL.dll
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\bin\Debug\BLL.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\obj\Debug\BLL.dll
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\obj\Debug\BLL.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\bin\Debug\DAL.dll
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\bin\Debug\ENTITY.dll
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\bin\Debug\DAL.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\bin\Debug\ENTITY.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\BLL\obj\Debug\BLL.csproj.CopyComplete

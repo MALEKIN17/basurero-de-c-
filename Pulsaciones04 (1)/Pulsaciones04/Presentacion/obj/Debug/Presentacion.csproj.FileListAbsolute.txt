@@ -1,0 +1,15 @@
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\Presentacion.exe.config
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\Presentacion.exe
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\Presentacion.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.exe
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\BLL.dll
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\ENTITY.dll
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\BLL.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\ENTITY.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\DAL.dll
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\DAL.pdb
