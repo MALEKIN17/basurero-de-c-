@@ -1,0 +1,6 @@
+C:\Users\santa\Documents\Visual Studio 2022\parcial\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\santa\Documents\Visual Studio 2022\parcial\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\santa\Documents\Visual Studio 2022\parcial\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\santa\Documents\Visual Studio 2022\parcial\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\santa\Documents\Visual Studio 2022\parcial\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\santa\Documents\Visual Studio 2022\parcial\ENTITY\obj\Debug\ENTITY.pdb

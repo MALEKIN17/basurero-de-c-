@@ -1,0 +1,2 @@
+C:\Users\santa\Documents\Visual Studio 2022\parcial\RUNEO\obj\Debug\RUNEO.csproj.AssemblyReference.cache
+C:\Users\santa\Documents\Visual Studio 2022\parcial\RUNEO\obj\Debug\RUNEO.csproj.CoreCompileInputs.cache

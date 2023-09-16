@@ -1,0 +1,9 @@
+C:\Users\santa\Documents\Visual Studio 2022\parcial\DAL\bin\Debug\DAL.dll
+C:\Users\santa\Documents\Visual Studio 2022\parcial\DAL\bin\Debug\DAL.pdb
+C:\Users\santa\Documents\Visual Studio 2022\parcial\DAL\bin\Debug\ENTITY.dll
+C:\Users\santa\Documents\Visual Studio 2022\parcial\DAL\bin\Debug\ENTITY.pdb
+C:\Users\santa\Documents\Visual Studio 2022\parcial\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\santa\Documents\Visual Studio 2022\parcial\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\santa\Documents\Visual Studio 2022\parcial\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\santa\Documents\Visual Studio 2022\parcial\DAL\obj\Debug\DAL.dll
+C:\Users\santa\Documents\Visual Studio 2022\parcial\DAL\obj\Debug\DAL.pdb
